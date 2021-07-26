@@ -49,7 +49,7 @@
 
 ---
 
-### ⭐️ From [ADITYASHAH](https://github.com/ADITYASHAH-IITP/) ### 
+### ⭐️ From [ADITYA SHAH](https://github.com/ADITYASHAH-IITP/) ### 
 
 ---
 
