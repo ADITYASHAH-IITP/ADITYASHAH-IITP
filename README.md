@@ -9,7 +9,7 @@
 - 💻 I’m currently doing my Master's in Mechatronics from IIT Patna.
 - 📚 I love to explore different engineering field and delve deeper. 
 - 💪🏼 Goals: To be an entrepreneur and do something for my motherland. 
-- ⚡ Fun fact: I write on Quora,learnig Guitar and I am antidote to boredom :smile:
+- ⚡ Fun fact: I write on Quora,learning Guitar and I am antidote to boredom :smile:
 
 
 ### Reach out to me 📝
