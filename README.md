@@ -15,7 +15,7 @@
 ### Reach out to me 📝
 
 
-[<img align="left" alt="Aditya | LinkedIn" height="30px" src="https://drive.google.com/file/d/1Xfi1i9SY2fQshM2_EhjjaBpw1GPoWxUx/view?usp=sharing"/>][linkedin]
+[<img align="left" alt="Aditya | LinkedIn" height="30px" src="file:///C:/Users/roams/Downloads/icons8-linkedin.svg"/>][linkedin]
 [<img align="left" alt="Aditya | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 
 
