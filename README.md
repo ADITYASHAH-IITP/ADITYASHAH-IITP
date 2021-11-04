@@ -16,7 +16,7 @@
 
 
 [<img align="left" alt="Aditya | LinkedIn" height="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Aditya | Instagram" height="30px" src="https://icons8.com/icon/32323/instagram" />][instagram]
+[<img align="left" alt="Aditya | Instagram" height="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
 
 
 <br />
